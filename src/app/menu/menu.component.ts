@@ -116,7 +116,7 @@ export class MenuComponent implements OnInit {
   table_options = DIM_SUM_OPTIONS
   selected:string;
   items:object;
-
+  
   constructor(){
 
     this.selected = 'Dim Sum',
